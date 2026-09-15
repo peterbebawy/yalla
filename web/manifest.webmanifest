@@ -1,0 +1,1 @@
+{"name": "يلا توكتوك", "short_name": "يلا توكتوك", "lang": "ar", "dir": "rtl", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#fbf9f5", "theme_color": "#ffda00", "icons": [{"src": "assets/logo.png", "sizes": "1254x1254", "type": "image/png", "purpose": "any"}]}
